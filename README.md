@@ -23,6 +23,7 @@ I want to see version of my command by executing internsctl --version
 
 
 Section B
+
 I want to execute the following command for -
 
 Part1 | Level Easy I want to get cpu information of my server through the following command:
